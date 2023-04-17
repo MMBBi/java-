@@ -9,6 +9,10 @@ public class HelloWorld {
             double b = 2;
             System.out.println(a/b);
 
+            double num = 1.1;
+            System.out.println(num*num);
+            //双精度浮点数的问题
+
     }
     public static void main3(String[] args) {
         byte a = 10;
