@@ -1,5 +1,42 @@
 public class HelloWorld {
-        public static void main(String[] args) {
+
+    public static void main(String[] args) {
+        int a = 10;
+        long b =20L;
+
+    }
+
+    public static void main7(String[] args) {
+        //布尔型 true表示真 false表示假。
+        //boolena无法强制类型转换，只能有true和false
+        //JVM没有明确他的大小。
+        boolean flag = true;
+        System.out.println(flag);
+    }
+
+
+    public static void main6(String[] args) {
+        //字符型，占用2个字节。
+        char a = 'a';
+        System.out.println(a);
+
+        a='鸡';
+        System.out.println(a);
+
+        char ch3 = 97;
+        System.out.println(ch3);
+
+        System.out.println(Character.MAX_RADIX);
+        System.out.println(Character.MIN_VALUE);
+
+    }
+
+    public static void main5(String[] args) {
+        float a = 12.5F;
+        //小数默认是double类型，需求在数字后面加f或F转换成float类型。
+        System.out.println(a);
+    }
+        public static void main4(String[] args) {
 
             double d = 12.5;
             //8个字节
@@ -14,6 +51,7 @@ public class HelloWorld {
             //双精度浮点数的问题
 
     }
+
     public static void main3(String[] args) {
         byte a = 10;
         //byte的取值范围
