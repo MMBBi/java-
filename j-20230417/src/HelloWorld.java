@@ -2,13 +2,24 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         int a = 10;
-        long b =20L;
+        long b = 20;
+        float f = 3.14F;
+        double d = 12.5;
+
+        //数据类型转换
+        b = a; //数据范围小的转为数据类型大的会发生隐性提升。
+        a=(int)b; //大的赋给小的，需要强制类型转换.
+
+        d = f;
+        f = (float) d;
+
+        a = (int) d; //会损失精度
 
     }
 
     public static void main7(String[] args) {
         //布尔型 true表示真 false表示假。
-        //boolena无法强制类型转换，只能有true和false
+        //boolean无法强制类型转换，只能有true和false
         //JVM没有明确他的大小。
         boolean flag = true;
         System.out.println(flag);
