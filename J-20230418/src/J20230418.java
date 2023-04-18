@@ -4,6 +4,7 @@ public class J20230418 {
         //三目运算符
         boolean flag = (true == true) ? (true == true) ? false : true :true;
         System.out.println(flag);
+
     }
 
     public static void main3(String[] args) {
