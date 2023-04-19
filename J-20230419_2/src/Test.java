@@ -27,7 +27,6 @@ public class Test {
         }
     }
 
-
     public static void main9(String[] args) {
         /*
         求出0～n之间的所有“水仙花数”并输出。
