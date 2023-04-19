@@ -6,7 +6,6 @@ public class Test {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         System.out.println(n);
-
     }
 
     public static void main6(String[] args) {
