@@ -12,7 +12,6 @@ public class Test {
         int random = (int)(Math.random()*101);
 
         System.out.println("猜数字游戏，请输入一个0-100之间的数");
-
         while (true) {
             int n = inPut.nextInt();
             if (n > random) {
