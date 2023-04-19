@@ -13,7 +13,6 @@ public class Test {
 
         System.out.println("猜数字游戏，请输入一个0-100之间的数");
 
-
         while (true) {
             int n = inPut.nextInt();
             if (n > random) {
