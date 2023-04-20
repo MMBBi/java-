@@ -18,6 +18,7 @@ public class Main {
         }
     }
 
+
     public static void main3(String[] args) {
         /*
         编写代码模拟三次密码输入的场景。 最多能输入三次密码，密码正确，提示“登录成功”,密码错误，
