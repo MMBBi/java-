@@ -76,7 +76,6 @@ public class Main {
          */
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
-
         System.out.println(fac(n));//n的阶乘
         System.out.println(facNum(n));//n阶乘的和
 
