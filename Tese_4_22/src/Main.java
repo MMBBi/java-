@@ -37,7 +37,6 @@ public class Main {
             System.out.println(n);
             return ;
         }
-
         print1(n / 10);
         System.out.println(n % 10);
     }

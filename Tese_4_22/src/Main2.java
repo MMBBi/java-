@@ -36,7 +36,6 @@ public class Main2 {
         move(a,c);
         return;
         }
-
         hanoiTower(n-1, a, c, b);//a上面的n-1个柱子 由a借助c移到b
         move(a, c);                 //剩下的一个移动到c上
         hanoiTower(n-1, b, a, c);//b上面的n-1个柱子再借助a移动到C上
