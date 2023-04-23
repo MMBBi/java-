@@ -43,6 +43,7 @@ public class Main {
         return sum;
     }
 
+
     public static void main5(String[] args) {
         /*
         实现一个方法 transform, 以数组为参数, 循环将数组中的每个元素 乘以 2 ,
