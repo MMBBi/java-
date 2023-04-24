@@ -45,8 +45,6 @@ public class Main {
         //计数器
         int ret2 =  findMoreNum2(array);
         System.out.println(ret2);
-
-
     }
     public static int findMoreNum2(int[] array) {
         int count = 0;
