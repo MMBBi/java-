@@ -21,7 +21,6 @@ public class Main {
 
         //数组的‘列’数据可以胜率，行不可以省略
         int[][] array = new int[2][];
-
         //数组的‘列’数据可以不相等，这叫做不规则初始化
         array[0] = new  int[2];
         array[1] = new  int[4];
