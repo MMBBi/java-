@@ -15,7 +15,6 @@ public class Main2 {
     }
 
 }
-
 class Date {
     int x;
     int y;
