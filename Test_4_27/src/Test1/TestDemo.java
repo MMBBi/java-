@@ -10,6 +10,7 @@ public class TestDemo {
         System.out.println(test.count);
 
     }
+
     TestDemo(int a) {
         count = a;
     }
