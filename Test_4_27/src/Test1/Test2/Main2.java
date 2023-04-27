@@ -28,7 +28,6 @@ class Date {
         return x;
     }
 
-
     public int getY() {
         return y;
     }
