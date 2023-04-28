@@ -52,6 +52,7 @@ public class Main {
         System.out.println(Arrays.toString(array));
     }
 
+
     public static void func(int[] array) {
         int lift = 0;
         int right = array.length-1;
