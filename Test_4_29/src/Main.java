@@ -1,14 +1,29 @@
 
 public class Main {
-
     public static void main(String[] args) {
+        Date day = new Date();
+        day.printfDate();
+    }
+
+    public static void main4(String[] args) {
+        Date day = new Date();
+        System.out.println("==============================");
+        Date day2 = new Date(2023,5,1);
+    }
+
+    public static void main3(String[] args) {
+        Date day = new Date();
+        day.printfDate();
+    }
+
+   public static void main2(String[] args) {
         Date day1 = new Date();
         Date day2 = new Date();
         Date day3 = new Date();
 
-        day1.setDay(2023,5,1);
+     /*   day1.setDay(2023,5,1);
         day2.setDay(2023,5,2);
-        day3.setDay(2023,5,3);
+        day3.setDay(2023,5,3);*/
 
         day1.printfDate();
         day2.printfDate();
