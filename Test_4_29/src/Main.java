@@ -2,7 +2,6 @@
 public class Main {
     public static void main(String[] args) {
         Date day = new Date();
-        day.printfDate();
     }
 
     public static void main4(String[] args) {

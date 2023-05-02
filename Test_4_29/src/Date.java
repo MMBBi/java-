@@ -3,8 +3,8 @@ public class Date {
     public int month;
     public int day;
 
-    public Date() {
 
+    public Date() {
         //System.out.println("无参构造方法被调用了");
         //这里注释如果取消掉的话编译会报错，因为通过this引用构造方法，this必须在第一行。
 
@@ -20,8 +20,12 @@ public class Date {
         System.out.println("有三个参数的构造方法被调用了");
     }
 
-
     public void printfDate() {
         System.out.println(this.year+"/"+this.month+"/"+this.day);
+        this.show();
+    }
+
+    public void show() {
+        System.out.println("this访问了show");
     }
 }
