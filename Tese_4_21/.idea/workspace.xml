@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="330b72e1-2551-431a-9c74-c495a2d58a4d" name="Changes" comment="4月21日，方法的创建和使用">
+      <change afterPath="$PROJECT_DIR$/../J-20230418/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230418/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230418/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230418/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230418/J-20230418.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230418/out/production/J-20230418/J20230418.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/J-20230419.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419/out/production/J-20230419/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J-20230419_2/J-20230419_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_16/out/production/Test_4_16/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_16/out/production/Test_4_16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_16/out/production/Test_4_16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_16/out/production/Test_4_16/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_20/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test_4_20/Test_4_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j-20230417/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j-20230417/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j-20230417/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j-20230417/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j-20230417/j-20230417.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../j-20230417/out/production/j-20230417/HelloWorld.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Oj4Mf0N8YAoRmZIdUmcH5EBCoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tese_4_21" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330b72e1-2551-431a-9c74-c495a2d58a4d" name="Changes" comment="" />
+      <created>1682060612585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682060612585</updated>
+    </task>
+    <task id="LOCAL-00001" summary="4月21日，方法的创建和使用">
+      <created>1682089039957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089039957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4月21日，方法的创建和使用">
+      <created>1682089061220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089061220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4月21日，方法的创建和使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月21日，方法的创建和使用" />
+  </component>
+</project>

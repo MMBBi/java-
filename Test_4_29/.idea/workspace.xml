@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edba2b04-4521-4cc7-9a68-44fb26a7e432" name="变更" comment="【MMBBi的Java之路】类和对象的理解--博客源码">
+      <change beforePath="$PROJECT_DIR$/src/com/baidu/www/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/baidu/www/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="175ff51a-f863-466f-af8f-0ebfdcc1bed7" />
+        <option name="url" value="https://github.com/MMBBi/java-" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P5MUPNb3y43wCGlliggZBqPsUX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2023_code/java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.Test_4_29">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Test_4_29" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baidu.www.Phone" />
+      <module name="Test_4_29" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test_4_29" />
+        <item itemvalue="应用程序.Phone" />
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="edba2b04-4521-4cc7-9a68-44fb26a7e432" name="变更" comment="" />
+      <created>1682742507279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682742507279</updated>
+    </task>
+    <task id="LOCAL-00001" summary="4月29日，类和对象相关博客代码">
+      <created>1682776076506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682776076506</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4月29日，类和对象相关博客代码">
+      <created>1682776142156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682776142156</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4月29日，类和对象相关博客代码">
+      <created>1682776223824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682776223824</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4月30日，类和对象相关博客代码">
+      <created>1682869352564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682869352564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'Gitee/git_branch' into git_branch&#10;&#10;# Conflicts:&#10;#&#9;Test_4_29/src/Date.java&#10;#&#9;Test_4_29/src/Main.java">
+      <created>1682869441545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682869441545</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4月29日博客代码修改">
+      <created>1682869468492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682869468492</updated>
+    </task>
+    <task id="LOCAL-00007" summary="4月29日博客代码修改">
+      <created>1682869478924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682869478924</updated>
+    </task>
+    <task id="LOCAL-00008" summary="【MMBBi的Java之路】类和对象的理解-博客源码">
+      <created>1683028969547</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683028969547</updated>
+    </task>
+    <task id="LOCAL-00009" summary="【MMBBi的Java之路】类和对象的理解--博客源码">
+      <created>1683029017034</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683029017034</updated>
+    </task>
+    <task id="LOCAL-00010" summary="【MMBBi的Java之路】类和对象的理解--博客源码">
+      <created>1683029039438</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683029039438</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4月29日，类和对象相关博客代码" />
+    <MESSAGE value="4月30日，类和对象相关博客代码" />
+    <MESSAGE value="Merge remote-tracking branch 'Gitee/git_branch' into git_branch&#10;&#10;# Conflicts:&#10;#&#9;Test_4_29/src/Date.java&#10;#&#9;Test_4_29/src/Main.java" />
+    <MESSAGE value="4月29日博客代码修改" />
+    <MESSAGE value="【MMBBi的Java之路】类和对象的理解-博客源码" />
+    <MESSAGE value="【MMBBi的Java之路】类和对象的理解--博客源码" />
+    <option name="LAST_COMMIT_MESSAGE" value="【MMBBi的Java之路】类和对象的理解--博客源码" />
+  </component>
+</project>
