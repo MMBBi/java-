@@ -1,7 +1,8 @@
 public class Animal {
-    private String name;
-    private String sex;
-    private int age;
+    public String name;
+    public String sex;
+    public int age;
+
 
     public void eat() {
         System.out.println(name+"正在吃饭");
@@ -14,6 +15,8 @@ public class Animal {
     public void setName(String name) {
         this.name = name;
     }
+
+
 
     @Override
     public String toString() {
