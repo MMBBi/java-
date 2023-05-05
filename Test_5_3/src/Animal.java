@@ -3,6 +3,15 @@ public class Animal {
     public String sex;
     public int age;
 
+    public Animal() {
+
+    }
+
+    public Animal(String name, int age) {
+        this.name = name;
+        this.age = age;
+
+    }
 
     public void eat() {
         System.out.println(name+"正在吃饭");
@@ -17,11 +26,11 @@ public class Animal {
     }
 
 
-
     @Override
     public String toString() {
         return "Animal{" +
                 "name='" + name + '\'' +
+                ", age=" + age +
                 '}';
     }
 }

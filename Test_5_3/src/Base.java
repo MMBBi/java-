@@ -1,7 +1,19 @@
-public class Base {
+public  class Base {
     public int a;
     public int b;
     public int c = 199;
+
+    static {
+        System.out.println("父类静态代码块");
+    }
+
+    {
+        System.out.println("父类实例代码块");
+    }
+
+    public Base() {
+        System.out.println("父类构造方法");
+    }
 
     public void methodA() {
         System.out.println("Base");
@@ -11,6 +23,18 @@ public class Base {
 
 class Derived extends Base {
     public int c = 9;
+
+    static {
+        System.out.println("子类静态代码块");
+    }
+
+    {
+        System.out.println("子类实例代码块");
+    }
+    public Derived() {
+        System.out.println("子类构造方法");
+    }
+
 
     public void methodA() {
         System.out.println("Derived");
@@ -35,7 +59,6 @@ class Derived extends Base {
         methodA();
         //同名访问父类的成员方法需要加上super关键字。
         super.methodA();
-
         //不同名，父类有访问父类，父类没有访问子类，都没有则报错。
         methodB();
     }
