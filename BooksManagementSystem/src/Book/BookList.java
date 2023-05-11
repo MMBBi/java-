@@ -7,7 +7,7 @@ package Book;
  */
 public class BookList {
 	private static final int DEFAULT_SIZE = 10;//预设书架可以放的书本数量
-	private Book[] books = new Book[DEFAULT_SIZE];
+	private Book[] books = new Book[DEFAULT_SIZE];//存放书的数组。
 	private int usedSize; //记录当前书架上有多少本书
 
 	public BookList() {
@@ -17,13 +17,17 @@ public class BookList {
 		this.usedSize = 3;
 	}
 
-/*	public void setBooks(int pos,Book book) {
-		books[pos] = book;
+	public Book getBook(int pos) {
+		return this.books[pos];
 	}
 
-	public void getBooks(Book.Books[] books) {
-		this.books = books;
-	}*/
+	public void setBook(Book book) {
+		this.books[usedSize] = book;
+	}
+
+	public void setBooks(int pos,Book book) {
+		this.books[pos] = book;
+	}
 
 	public int getUsedSize() {
 		return usedSize;

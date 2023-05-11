@@ -65,7 +65,6 @@ public class Book {
 				", 作者='" + author + '\'' +
 				", 出版社='" + press + '\'' +
 				", 价格=" + price +
-				", 是否被借出=" + isBorrowed +
-				'}';
+				(isBorrowed ? "  已借出" : "  未借出");
 	}
 }

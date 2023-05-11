@@ -27,11 +27,19 @@ public class NormalUser extends User {
 		System.out.println("1.查找图书");
 		System.out.println("2.借阅图书");
 		System.out.println("3.归还图书");
-		System.out.println("4.退出系统");
+		System.out.println("0.退出系统");
 		System.out.println("=================================");
 		System.out.println("请输入你的操作：");
 		Scanner scanner = new Scanner(System.in);
 		int choice = scanner.nextInt();
+		while (true) {
+			if(choice > 3) {
+				System.out.println("选择错误，重新选择");
+				choice = scanner.nextInt();
+			} else {
+				break;
+			}
+		}
 		return choice;
 	}
 }
