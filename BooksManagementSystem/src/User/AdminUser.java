@@ -44,7 +44,6 @@ public class AdminUser extends User {
 				break;
 			}
 		}
-
 		return choice;
 	}
 }
