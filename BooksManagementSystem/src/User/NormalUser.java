@@ -1,5 +1,7 @@
 package User;
 
+import Opera.*;
+
 import java.util.Scanner;
 
 /**
@@ -10,6 +12,12 @@ import java.util.Scanner;
 public class NormalUser extends User {
 	public NormalUser(String name) {
 		super(name);
+		this.iOperations = new IOperation[] {
+				new ExitSystem(),
+				new FindOperation(),
+				new BorrowOperation(),
+				new ReturnOperation(),
+		};
 	}
 
 	@Override

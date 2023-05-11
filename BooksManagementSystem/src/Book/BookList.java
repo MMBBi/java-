@@ -10,6 +10,13 @@ public class BookList {
 	private Book[] books = new Book[DEFAULT_SIZE];
 	private int usedSize; //记录当前书架上有多少本书
 
+	public BookList() {
+		books[0] = new Book("三国演义","罗贯中","人民文学出版社",41);
+		books[1] = new Book("西游记","吴承恩","人民文学出版社",38);
+		books[2] = new Book("水浒传","施耐庵","人民文学出版社",33);
+		this.usedSize = 3;
+	}
+
 /*	public void setBooks(int pos,Book book) {
 		books[pos] = book;
 	}

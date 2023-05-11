@@ -1,3 +1,4 @@
+import Book.BookList;
 import User.AdminUser;
 import User.NormalUser;
 import User.User;
@@ -27,8 +28,13 @@ public class Main {
 		}
 	}
 	public static void main(String[] args) {
+		BookList bookList = new BookList();
 		User user = login();
-		int choice = user.menu();
+		while (true) {
+			//choice和doWork用来确定调用哪个对象的哪个方法
+			int choice = user.menu();
+			user.doWork(choice,bookList);
+		}
 	}
 }
 

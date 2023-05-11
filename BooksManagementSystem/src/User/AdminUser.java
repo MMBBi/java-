@@ -1,5 +1,7 @@
 package User;
 
+import Opera.*;
+
 import java.util.Scanner;
 
 /**
@@ -11,6 +13,13 @@ public class AdminUser extends User {
 
 	public AdminUser(String name) {
 		super(name);
+		this.iOperations = new IOperation[] {
+				new ExitSystem(),
+				new FindOperation(),
+				new AddOperation(),
+				new DelOperation(),
+				new ShowOperation()
+		};
 	}
 
 	@Override
