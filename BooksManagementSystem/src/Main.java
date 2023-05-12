@@ -39,6 +39,9 @@ public class Main {
 			//choice和doWork用来确定调用哪个对象的哪个方法
 			int choice = user.menu();
 			user.doWork(choice,bookList);
+
+
+
 		}
 	}
 }
