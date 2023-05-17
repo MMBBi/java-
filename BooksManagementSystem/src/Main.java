@@ -1,5 +1,7 @@
 import Book.BookList;
 import Login.Login;
+import Login.PasswordException;
+import Login.UserNameException;
 import User.AdminUser;
 import User.NormalUser;
 import User.User;
@@ -18,7 +20,7 @@ public class Main {
 	 * @return 返回的User决定是登录管理员用户界面还是普通用户界面
 	 */
 
-	public static User login() {
+	public static User login()  {
 		System.out.println("欢迎来到小黑子图书馆 图书管理系统");
 		Scanner scanner = new Scanner(System.in);
 
@@ -28,14 +30,14 @@ public class Main {
 		System.out.println("请输入密码");
 		String passWord = scanner.nextLine();
 
-	/*	try {
+		try {
 			Login login1 = new Login();
-			Login1.loginInfo(userName,passWord);
-		}catch (UserNameException e) {
-
-		}catch (PasswordException e) {
-
-		}*/
+			login1.loginInfo(userName,passWord);
+		} catch (UserNameException e) {
+			e.printStackTrace();
+		} catch (PasswordException e) {
+			e.printStackTrace();
+		}
 
 		System.out.println("请输入你的姓名");
 		String name = scanner.nextLine();
