@@ -16,7 +16,6 @@ public abstract class User {
 	public User(String name) {
 		this.name = name;
 	}
-
 	public abstract int menu();//菜单
 
 	public void doWork(int choice, BookList bookList) {
